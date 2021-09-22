@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomDbKotlin</string>
+    <string name="add_details">add details</string>
+    <string name="save_details">save details</string>
+    <string name="added_item">added item</string>
+    <string name="empty_not_saved">Not Saved</string>
+</resources>
